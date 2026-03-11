@@ -123,18 +123,10 @@ src
  └─ discord
 ```
 
----
-
-## 📊 GitHub Metrics
-
-![MLL Bot GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=dark)
-
----
-
 ## 📫 Contact
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/yourserver)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:youremail@example.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/879152978584563713)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:moazkenglish@gmail.com)
 
 ---
 
