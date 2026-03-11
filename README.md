@@ -1,13 +1,4 @@
 # MLL Bot
-تمام. هعمل لك نموذج **README احترافي للبوت MLL Bot** بنفس أسلوب الصورة اللي بعتهالك، مع:
-
-* Badges لكل جزء من الـ Tech Stack
-* أيقونات للتواصل (Discord / Gmail)
-* GitHub Stats (تقدر تضيف رابط repo لاحقًا)
-* Layout منسق وجذاب
-
----
-
 ````md
 # 😎 MLL Bot
 
